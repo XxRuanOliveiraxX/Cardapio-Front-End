@@ -3,8 +3,8 @@
 Este projeto é um simples simples protótipo de um Cardápio Digital desenvolvido por mim. A aplicação foi desenvolvida usando **React, Typescript e React Query**.
 
 <h1 align="center">
-    <img src="./public/home.png" width="300"/>
-    <img src="./public/modal.png" width="300"/>
+    <img src="./public/Home.png" width="300"/>
+    <img src="./public/Modal.png" width="300"/>
 </h1>
 
 ## 💻 Requisitos
